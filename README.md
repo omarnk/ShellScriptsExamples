@@ -1,2 +1,5 @@
 # ShellScriptsExamples
-Shell scripts examples.
+Shell scripts examples incuding:
+- Conditional statements.
+- Arithmatic operations.
+
