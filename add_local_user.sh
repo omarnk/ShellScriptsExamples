@@ -1,5 +1,5 @@
 #!/bin/bash
-#Enforce script to run with root ,ifthe script is not executed with superuser privileges it will not attempt to create a user and returns an exit status of 1.
+#Enforce script to run with root ,if the script is not executed with superuser privileges it will not attempt to create a user and returns an exit status of 1.
 
 if [[ "${UID}" != 0 ]]
 then
